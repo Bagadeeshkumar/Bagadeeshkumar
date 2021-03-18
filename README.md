@@ -6,7 +6,7 @@
   </em>
  </p>
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" />
+<img align="right" alt="Coder GIF" height=300 width=350 src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" />
 
 <!-- <em> Want to know more about me? [Click here](Your website link) </em> -->
 <em>
