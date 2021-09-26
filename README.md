@@ -13,7 +13,7 @@
   
 **Talking about Personal Stuffs:**
 
-- 💼 I’m currently pursuing my third year of Bachelor's degree in Information Technology at [VCET](https://vcet.ac.in/).
+- 💼 I’m currently pursuing my final year of Bachelor's degree in Information Technology at [VCET](https://vcet.ac.in/).
 - 🤔 My interests are with Web Development as well as Software Development 🖥️.
 - 🎬 I love listening to music.
 - 💬 Ask me about anything, I am happy to help.
