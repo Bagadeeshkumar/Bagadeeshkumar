@@ -16,6 +16,8 @@
 - 💼 I’m currently pursuing my final year of Bachelor's degree in Information Technology at [VCET](https://vcet.ac.in/).
 - 🤔 My interests are with Web Development as well as Software Development 🖥️.
 - 🎬 I love listening to music.
+- 🌱 I’m currently learning more about frontend & backend frameworks
+- 👨‍💻 I am currently working on React.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please email via bagadeeshkumar13@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/bagadeeshkumar-p-8866701b1/) to reach me.
   <br/>
