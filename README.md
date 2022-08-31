@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    A <b>student</b> and a passionate<b> programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Madurai, India.
+    A <b>passionate<b> programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Madurai, India.
   </em>
  </p>
 
@@ -13,7 +13,7 @@
   
 **Talking about Personal Stuffs:**
 
-- 💼 I’m currently pursuing my final year of Bachelor's degree in Information Technology at [VCET](https://vcet.ac.in/).
+- 💼 I’m completed my Bachelor's degree in Information Technology at [VCET](https://vcet.ac.in/).
 - 🤔 My interests are with Web Development as well as Software Development 🖥️.
 - 🎬 I love listening to music.
 - 🌱 I’m currently learning more about frontend & backend frameworks
