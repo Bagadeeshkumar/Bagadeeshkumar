@@ -34,8 +34,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://icon-library.net/images/jquery-icon-png/jquery-icon-png-7.jpg" target="_blank"> <img src="https://user-images.githubusercontent.com/60843507/124064864-47ff8180-da53-11eb-81d5-9c42534e0296.png" alt="jquery" width="40" height="40"/> </a><a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="[https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png](https://git-scm.com/images/logo@2x.png)
-" alt="Git" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://git-scm.com/images/logo@2x.png" alt="Git" width="40" height="40"/> </a> 
 </p>
 
 <!--- ### GitHub Stats
