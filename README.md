@@ -1,8 +1,5 @@
 ## Hi, I'm Bagadeeshkumar! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
-<p
- align="left"> <img 
-src="https://komarev.com/ghpvc/?username=Bagadeeshkumar&label=Profile%20views&color=0e75b6&style=flat"
- alt="Bagadeeshkumar" /> </p>
+
 <p>
   <em>
     A <b>passionate<b> software engineer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Madurai, India.
@@ -52,6 +49,11 @@ src="https://komarev.com/ghpvc/?username=Bagadeeshkumar&label=Profile%20views&co
 <!-- git -->
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
+
+<p
+ align="left"> <img 
+src="https://komarev.com/ghpvc/?username=Bagadeeshkumar&label=Profile%20views&color=0e75b6&style=flat"
+ alt="Bagadeeshkumar" /> </p>
 
 <!--- ### GitHub Stats
 
