@@ -1,7 +1,3 @@
-<p
- align="left"> <img 
-src="https://komarev.com/ghpvc/?username=Bagadeeshkumar&label=Profile%20views&color=0e75b6&style=flat"
- alt="Bagadeeshkumar" /> </p>
  
 ## Hi, I'm Bagadeeshkumar! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
