@@ -1,8 +1,11 @@
 ## Hi, I'm Bagadeeshkumar! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
-
+<p
+ align="left"> <img 
+src="https://komarev.com/ghpvc/?username=Bagadeeshkumar&label=Profile%20views&color=0e75b6&style=flat"
+ alt="Bagadeeshkumar" /> </p>
 <p>
   <em>
-    A <b>passionate<b> programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Madurai, India.
+    A <b>passionate<b> software engineer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Madurai, India.
   </em>
  </p>
 
