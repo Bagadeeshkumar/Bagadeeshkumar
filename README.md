@@ -68,7 +68,11 @@
 </a>
 </p>--->
 
-### Follow me
+### Contact me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Bagadeeshkumar%20P-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bagadeeshkumar-p-8866701b1/)](https://www.linkedin.com/in/bagadeeshkumar-p-8866701b1/) [![Instagram Badge](https://img.shields.io/badge/-@bagadeeshkumar-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/bagadeeshkumar/)](https://www.instagram.com/bagadeeshkumar/) [![Twitter Badge](https://img.shields.io/badge/-@bagadeeshkumar-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bagadeeshkumar)](https://twitter.com/bagadeeshkumar) [![GitHub Badge](https://img.shields.io/badge/-@Bagadeeshkumar-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/Bagadeeshkumar)](https://github.com/Bagadeeshkumar) [![Gmail Badge](https://img.shields.io/badge/-@bagadeeshkumar-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:bagadeeshkumar13@gmail.com)](mailto:bagadeeshkumar13@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Bagadeeshkumar%20P-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bagadeeshkumar-p-8866701b1/)](https://www.linkedin.com/in/bagadeeshkumar-p-8866701b1/)
+<!---[![Instagram Badge](https://img.shields.io/badge/-@bagadeeshkumar-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/bagadeeshkumar/)](https://www.instagram.com/bagadeeshkumar/) 
+[![Twitter Badge](https://img.shields.io/badge/-@bagadeeshkumar-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bagadeeshkumar)](https://twitter.com/bagadeeshkumar) 
+[![GitHub Badge](https://img.shields.io/badge/-@Bagadeeshkumar-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/Bagadeeshkumar)](https://github.com/Bagadeeshkumar)--->
+[![Gmail Badge](https://img.shields.io/badge/-@bagadeeshkumar-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:bagadeeshkumar13@gmail.com)](mailto:bagadeeshkumar13@gmail.com)
 
